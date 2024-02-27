@@ -1,0 +1,5 @@
+p1 = input()
+p2 = input()
+t = input()
+t = t.replace(p1, p2)
+print(t)
